@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "381735010063",
+    "firebase_url": "https://motorparkingapps-a36e6-default-rtdb.firebaseio.com",
+    "project_id": "motorparkingapps-a36e6",
+    "storage_bucket": "motorparkingapps-a36e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381735010063:android:f1c99e03ca3ca3b244087a",
+        "android_client_info": {
+          "package_name": "com.nickysantano.motorparkingapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381735010063-0h5id20m3riembf826c1n14f4ea939hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8jV4FYG1I2TM5wbuOhk8F62N492dZRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381735010063-0h5id20m3riembf826c1n14f4ea939hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381735010063:android:60ea02919677561844087a",
+        "android_client_info": {
+          "package_name": "id.parking.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381735010063-0h5id20m3riembf826c1n14f4ea939hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8jV4FYG1I2TM5wbuOhk8F62N492dZRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381735010063-0h5id20m3riembf826c1n14f4ea939hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

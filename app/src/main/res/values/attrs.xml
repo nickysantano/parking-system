@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="bgColor" type="color"/>
+    <attr name="txtColor" type="color"/>
+    <attr name="btnOutlinedTextColor" type="color"/>
+    <attr name="btnOutlinedStrokeColor" type="color"/>
+</resources>
